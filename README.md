@@ -1,4 +1,3 @@
-# Projects
-In this folder, I'll showcase my project.
+#IPFinder-Tool
 
-The first file in this folder is the IPFinder Tool. With this tool, users can easily retrieve the IP address of any domain. Below, you'll find the code along with some helpful notes.
+In this folder, you'll find the IPFinder Tool coded in Java. It allows users to swiftly retrieve the IP address of any domain. Below, you'll discover the code accompanied by useful notes.
